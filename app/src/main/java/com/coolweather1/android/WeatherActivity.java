@@ -1,6 +1,9 @@
 package com.coolweather1.android;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.os.Bundle;
 
@@ -241,5 +244,5 @@ import okhttp3.Response;
 
         }
 
-    }
-}
+
+
